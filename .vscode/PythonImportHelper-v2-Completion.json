@@ -1,0 +1,527 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "cosine_similarity",
+        "importPath": "sklearn.metrics.pairwise",
+        "description": "sklearn.metrics.pairwise",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics.pairwise",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "assess_depression",
+        "kind": 2,
+        "importPath": ".history.app.api.v1.depression.route_20260118155550",
+        "description": ".history.app.api.v1.depression.route_20260118155550",
+        "peekOfCode": "def assess_depression(data: DepressionRequest):\n    return {\"message\":\"Aananya\"}",
+        "detail": ".history.app.api.v1.depression.route_20260118155550",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.app.api.v1.depression.route_20260118155550",
+        "description": ".history.app.api.v1.depression.route_20260118155550",
+        "peekOfCode": "router = APIRouter()\n@router.post('/depression', tags=['Depression'])\ndef assess_depression(data: DepressionRequest):\n    return {\"message\":\"Aananya\"}",
+        "detail": ".history.app.api.v1.depression.route_20260118155550",
+        "documentation": {}
+    },
+    {
+        "label": "assess_depression",
+        "kind": 2,
+        "importPath": ".history.app.api.v1.depression.route_20260118155930",
+        "description": ".history.app.api.v1.depression.route_20260118155930",
+        "peekOfCode": "def assess_depression(data: DepressionRequest):\n    return {\"message\":\"Thananya\"}\n@router.get('/depression/healthcheck', tags=['Depression'])\ndef health_check():\n    return {\"status\":\"ok\"}",
+        "detail": ".history.app.api.v1.depression.route_20260118155930",
+        "documentation": {}
+    },
+    {
+        "label": "health_check",
+        "kind": 2,
+        "importPath": ".history.app.api.v1.depression.route_20260118155930",
+        "description": ".history.app.api.v1.depression.route_20260118155930",
+        "peekOfCode": "def health_check():\n    return {\"status\":\"ok\"}",
+        "detail": ".history.app.api.v1.depression.route_20260118155930",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.app.api.v1.depression.route_20260118155930",
+        "description": ".history.app.api.v1.depression.route_20260118155930",
+        "peekOfCode": "router = APIRouter()\n@router.post('/depression', tags=['Depression'])\ndef assess_depression(data: DepressionRequest):\n    return {\"message\":\"Thananya\"}\n@router.get('/depression/healthcheck', tags=['Depression'])\ndef health_check():\n    return {\"status\":\"ok\"}",
+        "detail": ".history.app.api.v1.depression.route_20260118155930",
+        "documentation": {}
+    },
+    {
+        "label": "assess_depression",
+        "kind": 2,
+        "importPath": ".history.app.api.v1.depression.route_20260118155935",
+        "description": ".history.app.api.v1.depression.route_20260118155935",
+        "peekOfCode": "def assess_depression(data: DepressionRequest):\n    return {\"message\":\"A\"}\n@router.get('/depression/healthcheck', tags=['Depression'])\ndef health_check():\n    return {\"status\":\"ok\"}",
+        "detail": ".history.app.api.v1.depression.route_20260118155935",
+        "documentation": {}
+    },
+    {
+        "label": "health_check",
+        "kind": 2,
+        "importPath": ".history.app.api.v1.depression.route_20260118155935",
+        "description": ".history.app.api.v1.depression.route_20260118155935",
+        "peekOfCode": "def health_check():\n    return {\"status\":\"ok\"}",
+        "detail": ".history.app.api.v1.depression.route_20260118155935",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.app.api.v1.depression.route_20260118155935",
+        "description": ".history.app.api.v1.depression.route_20260118155935",
+        "peekOfCode": "router = APIRouter()\n@router.post('/depression', tags=['Depression'])\ndef assess_depression(data: DepressionRequest):\n    return {\"message\":\"A\"}\n@router.get('/depression/healthcheck', tags=['Depression'])\ndef health_check():\n    return {\"status\":\"ok\"}",
+        "detail": ".history.app.api.v1.depression.route_20260118155935",
+        "documentation": {}
+    },
+    {
+        "label": "assess_depression",
+        "kind": 2,
+        "importPath": ".history.app.api.v1.depression.route_20260118155937",
+        "description": ".history.app.api.v1.depression.route_20260118155937",
+        "peekOfCode": "def assess_depression(data: DepressionRequest):\n    return {\"message\":\"Aananya\"}\n@router.get('/depression/healthcheck', tags=['Depression'])\ndef health_check():\n    return {\"status\":\"ok\"}",
+        "detail": ".history.app.api.v1.depression.route_20260118155937",
+        "documentation": {}
+    },
+    {
+        "label": "health_check",
+        "kind": 2,
+        "importPath": ".history.app.api.v1.depression.route_20260118155937",
+        "description": ".history.app.api.v1.depression.route_20260118155937",
+        "peekOfCode": "def health_check():\n    return {\"status\":\"ok\"}",
+        "detail": ".history.app.api.v1.depression.route_20260118155937",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": ".history.app.api.v1.depression.route_20260118155937",
+        "description": ".history.app.api.v1.depression.route_20260118155937",
+        "peekOfCode": "router = APIRouter()\n@router.post('/depression', tags=['Depression'])\ndef assess_depression(data: DepressionRequest):\n    return {\"message\":\"Aananya\"}\n@router.get('/depression/healthcheck', tags=['Depression'])\ndef health_check():\n    return {\"status\":\"ok\"}",
+        "detail": ".history.app.api.v1.depression.route_20260118155937",
+        "documentation": {}
+    },
+    {
+        "label": "DepressionRequest",
+        "kind": 6,
+        "importPath": ".history.app.api.v1.depression.scema_20260118155644",
+        "description": ".history.app.api.v1.depression.scema_20260118155644",
+        "peekOfCode": "class DepressionRequest(BaseModel):\n    query: str\n    type: str\n    top_k: int",
+        "detail": ".history.app.api.v1.depression.scema_20260118155644",
+        "documentation": {}
+    },
+    {
+        "label": "get_depression",
+        "kind": 2,
+        "importPath": ".history.app.api.v1.depression.service_20260118155718",
+        "description": ".history.app.api.v1.depression.service_20260118155718",
+        "peekOfCode": "def get_depression():\n    return {\"message\":\"Aananya\"}",
+        "detail": ".history.app.api.v1.depression.service_20260118155718",
+        "documentation": {}
+    },
+    {
+        "label": "app_router",
+        "kind": 5,
+        "importPath": ".history.app.api.v1.router_20260118152104",
+        "description": ".history.app.api.v1.router_20260118152104",
+        "peekOfCode": "app_router = APIRouter()\napp_router.include_router(\n    recommend_router,\n    prefix='/recommend',\n    tags=['Recommendations']\n)",
+        "detail": ".history.app.api.v1.router_20260118152104",
+        "documentation": {}
+    },
+    {
+        "label": "app_router",
+        "kind": 5,
+        "importPath": ".history.app.api.v1.router_20260118155853",
+        "description": ".history.app.api.v1.router_20260118155853",
+        "peekOfCode": "app_router = APIRouter()\napp_router.include_router(\n    recommend_router,\n    prefix='/recommend',\n    tags=['Recommendations']\n)\napp_router.include_router(\n    depression_router,\n    prefix='/depression',\n    tags=['Depression']",
+        "detail": ".history.app.api.v1.router_20260118155853",
+        "documentation": {}
+    },
+    {
+        "label": "assess_depression",
+        "kind": 2,
+        "importPath": "app.api.v1.depression.route",
+        "description": "app.api.v1.depression.route",
+        "peekOfCode": "def assess_depression(data: DepressionRequest):\n    return {\"message\":\"Aananya\"}\n@router.get('/depression/healthcheck', tags=['Depression'])\ndef health_check():\n    return {\"status\":\"ok\"}",
+        "detail": "app.api.v1.depression.route",
+        "documentation": {}
+    },
+    {
+        "label": "health_check",
+        "kind": 2,
+        "importPath": "app.api.v1.depression.route",
+        "description": "app.api.v1.depression.route",
+        "peekOfCode": "def health_check():\n    return {\"status\":\"ok\"}",
+        "detail": "app.api.v1.depression.route",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.depression.route",
+        "description": "app.api.v1.depression.route",
+        "peekOfCode": "router = APIRouter()\n@router.post('/depression', tags=['Depression'])\ndef assess_depression(data: DepressionRequest):\n    return {\"message\":\"Aananya\"}\n@router.get('/depression/healthcheck', tags=['Depression'])\ndef health_check():\n    return {\"status\":\"ok\"}",
+        "detail": "app.api.v1.depression.route",
+        "documentation": {}
+    },
+    {
+        "label": "DepressionRequest",
+        "kind": 6,
+        "importPath": "app.api.v1.depression.scema",
+        "description": "app.api.v1.depression.scema",
+        "peekOfCode": "class DepressionRequest(BaseModel):\n    query: str\n    type: str\n    top_k: int",
+        "detail": "app.api.v1.depression.scema",
+        "documentation": {}
+    },
+    {
+        "label": "get_depression",
+        "kind": 2,
+        "importPath": "app.api.v1.depression.service",
+        "description": "app.api.v1.depression.service",
+        "peekOfCode": "def get_depression():\n    return {\"message\":\"Aananya\"}",
+        "detail": "app.api.v1.depression.service",
+        "documentation": {}
+    },
+    {
+        "label": "get_flight_price_prediction",
+        "kind": 2,
+        "importPath": "app.api.v1.flight.route",
+        "description": "app.api.v1.flight.route",
+        "peekOfCode": "def get_flight_price_prediction(data: FlightRequest):\n    prediction = predict_price(data)\n    return prediction",
+        "detail": "app.api.v1.flight.route",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.flight.route",
+        "description": "app.api.v1.flight.route",
+        "peekOfCode": "router = APIRouter()\n@router.post('/predict', tags=['Flight Price Prediction'])\ndef get_flight_price_prediction(data: FlightRequest):\n    prediction = predict_price(data)\n    return prediction",
+        "detail": "app.api.v1.flight.route",
+        "documentation": {}
+    },
+    {
+        "label": "FlightRequest",
+        "kind": 6,
+        "importPath": "app.api.v1.flight.schema",
+        "description": "app.api.v1.flight.schema",
+        "peekOfCode": "class FlightRequest(BaseModel):\n    Airline: str\n    Source: str\n    Destination: str\n    Total_Stops: int = Field(..., ge=0)\n    Month: int = Field(..., ge=1, le=12)\n    Year: int\n    Duration_hours: int = Field(..., ge=0)\n    Duration_min: int = Field(..., ge=0, le=59)",
+        "detail": "app.api.v1.flight.schema",
+        "documentation": {}
+    },
+    {
+        "label": "predict_price",
+        "kind": 2,
+        "importPath": "app.api.v1.flight.service",
+        "description": "app.api.v1.flight.service",
+        "peekOfCode": "def predict_price(req: FlightRequest) -> pd.DataFrame:\n    MODEL_PATH = \"app/models/flight_price_model.joblib\"\n    artifact = joblib.load(MODEL_PATH)\n    model = artifact[\"model\"]\n    features = artifact[\"features\"]\n    logger.info(f\"Load model successfully from {MODEL_PATH}\")\n    x = pd.DataFrame([req.model_dump()], columns=features)\n    price = float(model.predict(x)[0])\n    return {\n        \"predicted_price\": price,",
+        "detail": "app.api.v1.flight.service",
+        "documentation": {}
+    },
+    {
+        "label": "get_recommendations",
+        "kind": 2,
+        "importPath": "app.api.v1.recommend.route",
+        "description": "app.api.v1.recommend.route",
+        "peekOfCode": "def get_recommendations(data: RecommendRequest):\n    recommendations = search_predict(data.query, data.top_k, data.type)\n    return recommendations",
+        "detail": "app.api.v1.recommend.route",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.recommend.route",
+        "description": "app.api.v1.recommend.route",
+        "peekOfCode": "router = APIRouter()\n@router.post('/search', tags=['Recommendations'])\ndef get_recommendations(data: RecommendRequest):\n    recommendations = search_predict(data.query, data.top_k, data.type)\n    return recommendations",
+        "detail": "app.api.v1.recommend.route",
+        "documentation": {}
+    },
+    {
+        "label": "RecommendRequest",
+        "kind": 6,
+        "importPath": "app.api.v1.recommend.schema",
+        "description": "app.api.v1.recommend.schema",
+        "peekOfCode": "class RecommendRequest(BaseModel):\n    query: str\n    type: str\n    top_k: int",
+        "detail": "app.api.v1.recommend.schema",
+        "documentation": {}
+    },
+    {
+        "label": "search_predict",
+        "kind": 2,
+        "importPath": "app.api.v1.recommend.service",
+        "description": "app.api.v1.recommend.service",
+        "peekOfCode": "def search_predict(query, top_k=5, content_type=None):\n    logger.info(f\"MODEL_PATH: {MODEL_PATH}\")\n    logger.info(f\"Received query: {query}, top_k: {top_k}, content_type: {content_type}\")\n    artifact = joblib.load(MODEL_PATH)\n    vectorizer = artifact[\"vectorizer\"]\n    X = artifact[\"X\"]\n    meta = artifact[\"meta\"]\n    logger.info(\"Model artifacts loaded successfully.\")\n    q_vec = vectorizer.transform([query.lower()])\n    scores = cosine_similarity(q_vec, X).flatten()",
+        "detail": "app.api.v1.recommend.service",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_PATH",
+        "kind": 5,
+        "importPath": "app.api.v1.recommend.service",
+        "description": "app.api.v1.recommend.service",
+        "peekOfCode": "MODEL_PATH = \"app/models/recommender.joblib\"\n# artifact = joblib.load(MODEL_PATH)\n# vectorizer = artifact[\"vectorizer\"]\n# X = artifact[\"X\"]\n# meta = artifact[\"meta\"]\ndef search_predict(query, top_k=5, content_type=None):\n    logger.info(f\"MODEL_PATH: {MODEL_PATH}\")\n    logger.info(f\"Received query: {query}, top_k: {top_k}, content_type: {content_type}\")\n    artifact = joblib.load(MODEL_PATH)\n    vectorizer = artifact[\"vectorizer\"]",
+        "detail": "app.api.v1.recommend.service",
+        "documentation": {}
+    },
+    {
+        "label": "app_router",
+        "kind": 5,
+        "importPath": "app.api.v1.router",
+        "description": "app.api.v1.router",
+        "peekOfCode": "app_router = APIRouter()\napp_router.include_router(\n    recommend_router,\n    prefix='/recommend',\n    tags=['Recommendations']\n)\napp_router.include_router(\n    depression_router,\n    prefix='/depression',\n    tags=['Depression']",
+        "detail": "app.api.v1.router",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI(\n    title=\"AI Prediction Service\",\n    version=\"1.0.0\",\n    description=\"A service that provides AI-based predictions via RESTful API.\",\n)\napp.include_router(app_router, prefix=\"/api/v1\")",
+        "detail": "app.main",
+        "documentation": {}
+    }
+]
