@@ -1,5 +1,5 @@
 services:
-  api-Ananya:
+  api-ananya:
     build: .
     ports:
       - "8522:8000"
