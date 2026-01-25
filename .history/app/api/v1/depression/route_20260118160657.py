@@ -4,12 +4,11 @@ from .schema import DepressionRequest
 
 router = APIRouter()
 
-
-@router.post("/depression", tags=["Depression"])
+@router.post("/", tags=["Depression"])
 def assess_depression(data: DepressionRequest):
-    return {"message": "Aananya"}
+    result = get_depression(data)
+    return result
 
-
-@router.get("/depression/healthcheck", tags=["Depression"])
+@router.get("/healthcheck", tags=["Depression"])
 def health_check():
     return {"status": "ok"}
